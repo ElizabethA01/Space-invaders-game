@@ -1,0 +1,73 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Press Start 2P", sans-serif;
+}
+
+body {
+  background-color: blue;
+}
+
+.app {
+  display: grid;
+  grid-template-columns: 644px 1fr;
+  gap: 10px;
+}
+
+.grid {
+  margin: 20px;
+  width: 604px;
+  height: 604px;
+  border: white solid 2px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, 40px);
+  grid-template-rows: 40px;
+}
+
+.grid div {
+  width: 40px;
+  height: 40px;
+  background-size: contain;
+}
+
+.spaceship {
+  background-image: url("./images/spaceship.png");
+}
+
+.laser {
+  background-image: url("./images/projectile.png");
+}
+
+.alien {
+  background-image: url("./images/alien.png");
+}
+
+.explosion {
+  background-image: url("./images/explosion.png");
+}
+
+.message {
+  position: absolute;
+  top: 200px;
+  left: 200px;
+  width: 200px;
+  height: 100px;
+  background-color: white;
+  opacity: 85%;
+}
+
+.message h1 {
+  color: blue;
+  text-align: center;
+  line-height: 50px;
+}
+
+.scoreboard {
+  color: white;
+  margin: 20px;
+}
+
+.scoreboard * {
+  margin: 20px;
+}
