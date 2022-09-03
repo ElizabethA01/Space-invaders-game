@@ -40,7 +40,7 @@ User has to click left/ right key buttons to move and spacebar to shoot.
 
 
 ## Project Status
-Project is: _completed. No longer working on it, because I completed the project as part of a Boolean coding week challenge.
+Project is: _completed_. No longer working on it, because I completed the project as part of a Boolean coding week challenge.
 
 
 ## Room for Improvement
