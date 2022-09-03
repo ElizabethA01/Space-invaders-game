@@ -52,6 +52,9 @@ To do:
 - Adding levels.
 - Adding a play again button (completed)
 
+## My Thoughts
+During the process of creating this game, I really enjoyed the different aspects such as recreating the concept and adding visuals. As I'm interested in gaming, it was insightful to see a game to life from start to finish.
+
 
 ## Acknowledgements
 - This project was inspired by Boolean coding week challenge created by Boolean. 
