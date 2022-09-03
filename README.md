@@ -21,9 +21,9 @@
 
 
 ## Technologies Used
-- JavaScript
-- HTML
-- CSS
+- JavaScript - version ES6
+- HTML - version 5.0
+- CSS - version 3.0
 
 
 ## Features
